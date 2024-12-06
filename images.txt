@@ -1,4 +1,4 @@
 redis:6.2.16
 alpine
 #支持指定架构
---platform=linux/arm64
+--platform=linux/arm64 changjin
